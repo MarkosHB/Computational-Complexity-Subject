@@ -1,4 +1,5 @@
 # Computational-Complexity-Subject
 Feel free to have a look at those presentations of your interest!
-- Check out a cool [PresentacionMT.pdf](./TuringMachine/PresentacionMT.pdf) about a Turing Machine Unitape and its equivalent Multitape version (made fully by me).
+- Check out this cool [PresentacionMT.pdf](./TuringMachine/) about a Turing Machine Unitape and its equivalent Multitape version (made fully by me).
 - In [Slides UNARY-SSUM.pdf](./UNARY-SSUM/) u will find a demostration (a few actually) of how large inputs can mess up complexity...
+- Last but not least, in [Slides EXACT-COVER Problem](./EXACT-COVER/) it's found the NP-Complete problem I chose to elaborate. This might the best slides I've ever made...  
